@@ -1,0 +1,44 @@
+/* Nav Styles */
+nav {
+  background-color: #6686FF;
+}
+nav ul {
+  display:flex;
+}
+nav ul li {
+  max-width: 10vh;
+  list-style:  none;
+  height: 44px;
+  width: 160px;
+}
+nav ul li:hover {
+  background-color: #B3C2FF;
+}
+nav ul li a {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: white;
+  margin: 0 auto;
+  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+.content {
+  padding: 0 20px;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: .6;
+}
