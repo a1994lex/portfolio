@@ -8,7 +8,6 @@ nav ul {
   margin: 0;
 }
 nav ul li {
-  max-width: 10vh;
   list-style:  none;
   height: 54px;
   width: 160px;
